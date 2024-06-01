@@ -253,7 +253,7 @@
     font-family: var(--ff-chakra-petch);
     font-size: var(--fs-5);
     text-transform: uppercase;
-    color: red;
+    color: rgb(83, 83, 83);
     padding: 10px 20px;
     transition: var(--transition);
   }
